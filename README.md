@@ -6,7 +6,7 @@
 
 🖥 I’m an iOS、iPadOS、macOS、watchOS、tvOS developer.
 
-🏖 	 I’m like biking、climbing、fishing......
+🏖 	 I like biking、climbing、fishing......
 
 
 <!--
