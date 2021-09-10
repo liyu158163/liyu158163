@@ -1,4 +1,4 @@
-### Hi I'm Fisher
+### Hi, I'm Fisher
 
 📍 I’m live in Shenzhen, Guangdong, China.
 
