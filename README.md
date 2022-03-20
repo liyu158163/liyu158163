@@ -1,6 +1,6 @@
 ### Hi, I'm Fisher
 
-📍 I’m live in Shenzhen, Guangdong, China.
+📍 I’m live in Shenzhen, China.
 
 🏢 I’m an engineer work at VisionChina Media.
 
