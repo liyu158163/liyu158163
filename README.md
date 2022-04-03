@@ -1,6 +1,6 @@
 ### Hi, I'm Fisher
 
-📍 I used to live in Shenzhen, now I live in Chengdu, China.
+📍 I used to live in Shenzhen, Guangdong, and now I live in Chengdu, Sichuan.
 
 🏢 I’m an engineer work at VisionChina Media.
 
