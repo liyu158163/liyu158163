@@ -4,7 +4,7 @@
 
 🏢 I’m an engineer work at VisionChina Media.
 
-🖥 I’m an iOS、iPadOS、macOS、watchOS、tvOS、Flutter、Qt developer.
+🖥 I’m an iOS、iPadOS、macOS、watchOS、tvOS、Flutter and Qt developer.
 
 🏖 	 I like biking、climbing、fishing......
 
