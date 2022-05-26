@@ -11,4 +11,4 @@
 
 **I Used Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyu158163&layout=compact)](https://github.com/liyu158163/liyu158163)
+[![liyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyu158163&layout=compact)](https://github.com/liyu158163/liyu158163)
