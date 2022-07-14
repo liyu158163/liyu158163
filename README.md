@@ -13,4 +13,4 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=liyu158163&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs,issues)](https://github.com/liyu158163) 
 
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyu158163&layout=compact&langs_count=10&theme=buefy)](https://github.com/liyu158163)
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyu158163&layout=compact&langs_count=8&theme=buefy)](https://github.com/liyu158163)
